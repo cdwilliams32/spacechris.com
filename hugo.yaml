@@ -31,7 +31,6 @@ params:
   env: production
   showToc: false
   showtocOnPost: false
-  customCSS: ["css/style.css"]
   defaultTheme: auto
   profileMode:
     enabled: true

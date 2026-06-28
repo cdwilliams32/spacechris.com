@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2026-06-27T14:38:45-06:00
-draft = false
+draft = true
 description = "Chris Williams — Captain, USSF. TS/SCI cleared. M.S. Space Studies. Space Operations, systems administration, and infrastructure."
 +++
 
@@ -34,6 +34,10 @@ Before my current assignment, I served in Greenland at **12 SWS**, where I:
 
 #### Previous Assignment
 Before Greenland, I was stationed at the **533rd TRS**, a **Training Squadron** at Vandenberg Space Force Base, where I honed the foundational skills necessary for high-level space operations.
+
+{{< center >}}
+{{< button href="/resume.pdf" text="Download Resume" target="_blank" download="resume.pdf" >}}
+{{< /center >}}
 
 ---
 

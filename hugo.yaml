@@ -1,0 +1,51 @@
+baseURL: https://spacechris.com/
+locale: en-us
+title: Spacechris.com
+theme: ["PaperMod"]
+author: 'Chris Williams'
+description: 'Captain, U.S. Space Force. Professional portfolio and resume.'
+keywords:
+  - 'Chris Williams'
+  - 'Space Force'
+  - 'Cyber Operations'
+  - 'Resume'
+defaultContentLanguage: en
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+#    - identifier: resume
+#      name: Resume
+#      url: /resume/
+#      weight: 20
+    - identifier: blog
+      name: Blog
+      url: https://blog.spacechris.com
+      weight: 30
+
+params:
+  favicon: "/favicon.ico"
+  env: production
+  showToc: false
+  showtocOnPost: false
+  customCSS: ["css/style.css"]
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: "Chris Williams" # optional default will be site title
+    subtitle: "Space Force Captain | Space Operations | Open Source Advocacy"
+    imageurl: "images/profile.png"
+    imageTitle: "Profile Picture" # optional
+    imageWidth: 254 # custom size
+    imageHeight: 254 # custom size
+
+  socialIcons: # optional
+    - name: github
+      url: "https://github.com/cdwilliams32"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/christopher-williams-spacechris/"
+    - name: email
+      url: mailto:chris@spacechris.com

@@ -1,0 +1,69 @@
++++
+title = 'About'
+date = 2026-06-27T14:38:45-06:00
+draft = false
+description = "Chris Williams — Captain, USSF. TS/SCI cleared. M.S. Space Studies. Space Operations, systems administration, and infrastructure."
++++
+
+## About Me
+
+My name is **Christopher Williams**, and you can go by **Chris** or **Christopher**.
+
+I'm a Captain (O-3) in the United States Space Force with a **TS/SCI clearance** and a **Master of Science in Space Studies** from the **University of North Dakota**. My career has been focused on Space Operations, managing complex high-value systems, and leading teams in high-stakes environments.
+
+---
+
+### 🛰️ Military Service
+
+I've had the privilege of serving at three distinct installations, ranging from the high Arctic of Greenland to the deserts of New Mexico.
+
+| Role | Installation | Location |
+| :--- | :--- | :--- |
+| **Mission Director & Flight Commander** | **ADF-Southwest** | Las Cruces, NM |
+| **Crew Commander & Mission Assurance** | **12th Space Warning Squadron** | Pituffik SB, Greenland |
+| **Space Operations Trainee** | **533rd Training Squadron** | Vandenberg SFB, CA |
+
+#### Current Role
+I currently serve as a **Mission Director and Flight Commander**, responsible for the operation and safety of a **multi-billion dollar asset**. This role demands precision leadership, rapid problem-solving, and the ability to manage complex operational workflows under pressure.
+
+#### Prior Experience
+Before my current assignment, I served in Greenland at **12 SWS**, where I:
+*   Served as **Crew Commander**, operating the **UEWR Radar**.
+*   Acted as **Mission Assurance Commander**, ensuring maintenance and upgrade operations were executed flawlessly.
+*   Served as the **Contracting Officers' Representative (COR)** for the SSPARS contract.
+
+#### Previous Assignment
+Before Greenland, I was stationed at the **533rd TRS**, a **Training Squadron** at Vandenberg Space Force Base, where I honed the foundational skills necessary for high-level space operations.
+
+{{< center >}}
+{{< button href="/resume.pdf" text="Download Resume" target="_blank" download="resume.pdf" >}}
+{{< /center >}}
+
+---
+
+### 🛠️ Technical Expertise
+
+Beyond military service, I'm deeply passionate about technology and infrastructure. I run a personal **homelab** where I build and manage:
+*   **Linux Administration** (Debian, CachyOS, Ubuntu)
+*   **Containerization** (Docker, Docker Compose, Proxmox VMs)
+*   **Network Architecture** (Nginx Reverse Proxies, Tailscale)
+*   **Self-Hosted Services** (AI Inference nodes, Git repositories, Personal Websites)
+
+I love the process of taking raw hardware and turning it into a secure, efficient, and functional system. I'm currently expanding my skillset into **Cyber Operations** and **Cloud Engineering**.
+
+---
+
+### 🚀 What's Next
+
+I am currently serving my final year of active duty and planning to separate in **June 2027**.
+
+My goal is to transition into the **Air Force Reserve as a cyber officer (17D/17S)**, leveraging my security clearance and operational background in a more technical capacity. To prepare, I am actively studying for my **Security+ certification** and building out my technical portfolio.
+
+---
+
+### 🌲 Beyond the Screen
+
+When I'm not working, I'm usually:
+*   🏃‍♂️ **Working out** or going for a run
+*   🐕 **Spending time with my dogs**: **Ruby**, a Golden Doodle, and **Zia**, an Australian Cattle Dog who keeps me on my toes
+*   🏡 **Homelab tinkerer**: Always optimizing, upgrading, and documenting
